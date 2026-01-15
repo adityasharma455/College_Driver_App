@@ -127,8 +127,11 @@ Used Kotlin Coroutines (Dispatchers.IO) and StateFlow to handle background work 
   5. Build & Run on a real device (recommended) 🚀
 
 
+
 👨‍💻 Author
 
 Aditya Sharma
-Android Developer
-Jetpack Compose | MVVM | Clean Architecture | Coroutines | Firebase
+🎓 3rd Year Computer Science Student
+📱 Android Developer | Kotlin | Jetpack Compose | Firebase
+
+🔗 GitHub: https://github.com/adityasharma455
