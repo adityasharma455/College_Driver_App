@@ -18,7 +18,7 @@ This project focuses on core Android concepts, clean architecture, and reactive 
 
 | DriverHomeScreen | PermissionScreen| StartSharingLocation |
 |------------|--------|--------|
-| ![DriverHomeScreen](screenshots/DriverHomeScreen.jpeg) | ![PermissionScreen](screenshots/SignOut.jpeg) | ![StartSharingLocation](screenshots/StartSharingLocation.jpeg) | 
+| ![DriverHomeScreen](screenshots/DriverHomeScreen.jpeg) | ![PermissionScreen](screenshots/PermissionScreen.jpeg) | ![StartSharingLocation](screenshots/StartSharingLocation.jpeg) | 
 
 | NotificationForForegorund | DriverProfileScreen | RegisterAnotnerBusScreen |
 |------------|--------|--------|
